@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Reactjskelompokniko/static/css/main.38443435.css",
+    "main.js": "/Reactjskelompokniko/static/js/main.b64c2afd.js",
+    "static/media/laptop.png": "/Reactjskelompokniko/static/media/laptop.dce43729c5630074870d.png",
+    "static/media/monitor.png": "/Reactjskelompokniko/static/media/monitor.d4be5cf4c54246c4f4d2.png",
+    "static/media/logoo.png": "/Reactjskelompokniko/static/media/logoo.643bbb4896782a237729.png",
+    "index.html": "/Reactjskelompokniko/index.html",
+    "main.38443435.css.map": "/Reactjskelompokniko/static/css/main.38443435.css.map",
+    "main.b64c2afd.js.map": "/Reactjskelompokniko/static/js/main.b64c2afd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.38443435.css",
+    "static/js/main.b64c2afd.js"
+  ]
+}
